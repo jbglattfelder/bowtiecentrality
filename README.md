@@ -1,6 +1,6 @@
 # Bow-Tie Centrality
 
-This is the R-code with the computations and examples for:
+This is the R and Python code containing the computations for the examples in:
 
 The Bow-Tie Centrality: A Novel Measure for Directed and Weighted Networks with an Intrinsic Node Property
 
